@@ -9,8 +9,8 @@ function App() {
         
 
         <h1>testing firebase</h1>
-        <h1>now, testing firebase ci/cd features</h1>
-      
+        <h1>now, testing firebase ci/cd features second time pull</h1>
+       
       </header>
     </div>
   );
